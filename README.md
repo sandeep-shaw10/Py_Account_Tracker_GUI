@@ -12,9 +12,10 @@
 ## CONVERTING DATA TO PDF USING [REPORTLAB](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 ## [PDF GENERATION FORMAT](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/myAccount20112020000830.pdf)
 
-_**© SANDEEP SHAW**
-Student, Computer Science and Engineering
-G.C.E.C.T, Kolkata
+
+> **© SANDEEP SHAW**
+>> Student, Computer Science and Engineering
+>>> G.C.E.C.T, Kolkata
 
 
 First Release : 20th November, 2020
