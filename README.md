@@ -6,7 +6,7 @@
 ![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
 
 # OVERVIEW
-![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
+![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Figure.png?raw=true)
 ![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
 ![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
 ![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
