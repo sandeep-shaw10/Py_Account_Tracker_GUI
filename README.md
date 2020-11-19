@@ -18,12 +18,12 @@
 >>> G.C.E.C.T, Kolkata
 
 
-First Release : 20th November, 2020
-LICENSE under the [MIT License](LICENSE)
+>First Release : 20th November, 2020.
+>>LICENSE under the [MIT License](LICENSE).
 
 ## Operational Size 
-File Size : Around 0.5 MB
-Executable file size : 63 MB using [pyinstaller](https://www.youtube.com/watch?v=UZX5kH72Yx4) or [auto-py-to-exe](https://www.youtube.com/watch?v=OZSZHmWSOeM)
+>File Size : Around 0.5 MB.
+>>Executable file size : 63 MB using [pyinstaller](https://www.youtube.com/watch?v=UZX5kH72Yx4) or [auto-py-to-exe](https://www.youtube.com/watch?v=OZSZHmWSOeM).
 
 
 
