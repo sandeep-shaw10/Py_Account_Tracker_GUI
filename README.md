@@ -6,10 +6,11 @@
 ![alt text](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Account%20Tracker%202020/images/rupiyaPYsa.png?raw=true)
 
 # OVERVIEW
-![Matplotlib Chart](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Figure_1.png?raw=true)
-![MAIN WINDOW](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/GITHUB_PY_1.png?raw=true)
-![SETUP WINDOW](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/GITHUB_PY_2.png?raw=true)
-![PDF FORM](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/myAccount20112020000830.pdf)
+## APP INTERFACE![MAIN WINDOW](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/GITHUB_PY_1.png?raw=true)
+## APP SUB-INTERFACE![SETUP WINDOW](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/GITHUB_PY_2.png?raw=true)
+## CHART ANALYSIS![Matplotlib Chart](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/Figure_1.png?raw=true)
+## CONVERTING DATA TO PDF USING [REPORTLAB](https://www.reportlab.com/docs/reportlab-userguide.pdf)
+## [PDF GENERATION FORMAT](https://github.com/sandeep-shaw10/Py_Account_Tracker_GUI/blob/main/myAccount20112020000830.pdf)
 
 _**© SANDEEP SHAW**
 Student, Computer Science and Engineering
